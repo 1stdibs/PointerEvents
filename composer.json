@@ -1,0 +1,17 @@
+{
+  "name": "jquery/pointerevents",
+  "description": "PointerEvents Polyfill: a unified event system for the web platform",
+  "keywords": ["PointerEvents"],
+  "homepage": "https://github.com/Polymer/PointerEvents",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "license": [
+    "BSD"
+  ]
+}
