@@ -6,6 +6,7 @@ import PointerEvent from 'PointerEvent';
 import { applyAttributeStyles } from 'touch-action';
 import { applyPolyfill as applyPointerEventPolyfill } from 'platform-events';
 import { applyPolyfill as applyCapturePolyfill } from 'capture';
+import 'pointerhooks';
 
 applyAttributeStyles();
 applyPointerEventPolyfill();
